@@ -1,0 +1,44 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Autotools
+Makefile
+.deps
+stamp-h1
+config.h
+config.log
+config.status
+libtool
+*.in
+configure
+autom4te.cache
+
+# Mac OS X
+.DS_Store
+
+# Windows
+Thumbs.db
+*.exe
+
+# Eclipse
+.cproject
+.settings
+.project
+
+# Mercurial
+.hg
+.hgignore
+.hgtags
+
+
+aclocal.m4
